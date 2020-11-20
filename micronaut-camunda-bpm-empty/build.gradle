@@ -1,10 +1,10 @@
 plugins {
-    id "com.github.johnrengelman.shadow" version "6.1.0"
-    id "io.micronaut.application" version '1.0.5'
+    id("com.github.johnrengelman.shadow") version "6.1.0"
+    id("io.micronaut.application") version "1.2.0"
 }
 
-version "0.1"
-group "micronaut.camunda.bpm.empty"
+version = "0.1"
+group = "micronaut.camunda.bpm.empty"
 
 repositories {
     mavenCentral()
@@ -12,11 +12,11 @@ repositories {
 }
 
 micronaut {
-    runtime "netty"
-    testRuntime "junit5"
+    runtime("netty")
+    testRuntime("junit5")
     processing {
-        incremental true
-        annotations "micronaut.camunda.bpm.empty.*"
+        incremental(true)
+        annotations("micronaut.camunda.bpm.empty.*")
     }
 }
 
@@ -27,12 +27,18 @@ dependencies {
     runtimeOnly("ch.qos.logback:logback-classic")
 }
 
-mainClassName = "micronaut.camunda.bpm.empty.Application"
-java {
-    sourceCompatibility = JavaVersion.toVersion('1.8')
-    targetCompatibility = JavaVersion.toVersion('1.8')
+
+application {
+    mainClass.set("micronaut.camunda.bpm.empty.Application")
 }
 
+java {
+    sourceCompatibility = JavaVersion.toVersion("1.8")
+    targetCompatibility = JavaVersion.toVersion("1.8")
+}
+
+tasks {
 
 
+}
 

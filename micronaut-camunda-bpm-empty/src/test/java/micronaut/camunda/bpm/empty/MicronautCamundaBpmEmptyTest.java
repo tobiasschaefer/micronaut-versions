@@ -11,7 +11,7 @@ import javax.inject.Inject;
 public class MicronautCamundaBpmEmptyTest {
 
     @Inject
-    EmbeddedApplication application;
+    EmbeddedApplication<?> application;
 
     @Test
     void testItWorks() {
