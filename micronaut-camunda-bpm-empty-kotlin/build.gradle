@@ -9,7 +9,6 @@ plugins {
 version = "0.1"
 group = "micronaut.camunda.bpm.empty.kotlin"
 
-val kotlinVersion=project.properties.get("kotlinVersion")
 repositories {
     mavenCentral()
     jcenter()
