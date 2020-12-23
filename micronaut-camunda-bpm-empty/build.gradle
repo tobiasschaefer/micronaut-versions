@@ -37,8 +37,5 @@ java {
     targetCompatibility = JavaVersion.toVersion("1.8")
 }
 
-tasks {
 
-
-}
 
