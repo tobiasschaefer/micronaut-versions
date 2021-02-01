@@ -1,4 +1,4 @@
-rm -rf micronaut-camunda-bpm-empty-java-mavene
+rm -rf micronaut-camunda-bpm-empty-java-maven
 mn create-app micronaut-camunda-bpm-empty-java-maven --build=maven
 
 rm -rf micronaut-camunda-bpm-empty-java-gradle
