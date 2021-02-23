@@ -8,7 +8,6 @@ group = "micronaut.empty.java.gradle"
 
 repositories {
     mavenCentral()
-    jcenter()
 }
 
 micronaut {
