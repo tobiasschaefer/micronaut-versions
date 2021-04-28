@@ -10,7 +10,7 @@
   <parent>
     <groupId>io.micronaut</groupId>
     <artifactId>micronaut-parent</artifactId>
-    <version>2.4.2</version>
+    <version>2.4.3</version>
   </parent>
 
   <properties>
@@ -18,7 +18,7 @@
     <jdk.version>1.8</jdk.version>
     <!-- If you are building with JDK 9 or higher, you can uncomment the lines below to set the release version -->
     <!-- <release.version>8</release.version> -->
-    <micronaut.version>2.4.2</micronaut.version>
+    <micronaut.version>2.4.3</micronaut.version>
     <exec.mainClass>micronaut.empty.java.maven.Application</exec.mainClass>
     <micronaut.runtime>netty</micronaut.runtime>
   </properties>
@@ -39,11 +39,6 @@
     <dependency>
       <groupId>io.micronaut</groupId>
       <artifactId>micronaut-validation</artifactId>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>io.micronaut</groupId>
-      <artifactId>micronaut-http-server-netty</artifactId>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -69,6 +64,11 @@
     <dependency>
       <groupId>io.micronaut</groupId>
       <artifactId>micronaut-http-client</artifactId>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>io.micronaut</groupId>
+      <artifactId>micronaut-http-server-netty</artifactId>
       <scope>compile</scope>
     </dependency>
     <dependency>
