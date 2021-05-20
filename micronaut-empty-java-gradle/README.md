@@ -1,8 +1,8 @@
-## Micronaut 2.5.3 Documentation
+## Micronaut 2.5.4 Documentation
 
-- [User Guide](https://docs.micronaut.io/2.5.3/guide/index.html)
-- [API Reference](https://docs.micronaut.io/2.5.3/api/index.html)
-- [Configuration Reference](https://docs.micronaut.io/2.5.3/guide/configurationreference.html)
+- [User Guide](https://docs.micronaut.io/2.5.4/guide/index.html)
+- [API Reference](https://docs.micronaut.io/2.5.4/api/index.html)
+- [Configuration Reference](https://docs.micronaut.io/2.5.4/guide/configurationreference.html)
 - [Micronaut Guides](https://guides.micronaut.io/index.html)
 ---
 
