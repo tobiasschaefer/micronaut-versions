@@ -20,9 +20,13 @@ micronaut {
 }
 
 dependencies {
+    implementation("info.novatec:micronaut-camunda-bpm-feature:0.23.0")
     implementation("io.micronaut:micronaut-http-client")
     implementation("io.micronaut:micronaut-runtime")
     runtimeOnly("ch.qos.logback:logback-classic")
+    runtimeOnly("com.h2database:h2")
+    testImplementation("org.assertj:assertj-core")
+    testImplementation("org.camunda.bpm.assert:camunda-bpm-assert:10.0.0")
     implementation("io.micronaut:micronaut-validation")
 
 }

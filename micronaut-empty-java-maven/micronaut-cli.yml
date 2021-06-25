@@ -3,4 +3,4 @@ defaultPackage: micronaut.empty.java.maven
 testFramework: junit
 sourceLanguage: java
 buildTool: maven
-features: [app-name, http-client, java, java-application, junit, logback, maven, netty-server, readme, shade, yaml]
+features: [app-name, assertj, camunda, h2, http-client, java, java-application, junit, logback, maven, netty-server, readme, shade, yaml]
