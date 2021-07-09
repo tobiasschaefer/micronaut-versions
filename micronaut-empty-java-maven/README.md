@@ -1,8 +1,8 @@
-## Micronaut 2.5.7 Documentation
+## Micronaut 2.5.8 Documentation
 
-- [User Guide](https://docs.micronaut.io/2.5.7/guide/index.html)
-- [API Reference](https://docs.micronaut.io/2.5.7/api/index.html)
-- [Configuration Reference](https://docs.micronaut.io/2.5.7/guide/configurationreference.html)
+- [User Guide](https://docs.micronaut.io/2.5.8/guide/index.html)
+- [API Reference](https://docs.micronaut.io/2.5.8/api/index.html)
+- [Configuration Reference](https://docs.micronaut.io/2.5.8/guide/configurationreference.html)
 - [Micronaut Guides](https://guides.micronaut.io/index.html)
 ---
 

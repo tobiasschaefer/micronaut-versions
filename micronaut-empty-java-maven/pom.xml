@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="https://maven.apache.org/POM/4.0.0" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="https://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>micronaut.empty.java.maven</groupId>
   <artifactId>micronaut-empty-java-maven</artifactId>
@@ -10,7 +10,7 @@
   <parent>
     <groupId>io.micronaut</groupId>
     <artifactId>micronaut-parent</artifactId>
-    <version>2.5.7</version>
+    <version>2.5.8</version>
   </parent>
 
   <properties>
@@ -18,7 +18,7 @@
     <jdk.version>1.8</jdk.version>
     <!-- If you are building with JDK 9 or higher, you can uncomment the lines below to set the release version -->
     <!-- <release.version>8</release.version> -->
-    <micronaut.version>2.5.7</micronaut.version>
+    <micronaut.version>2.5.8</micronaut.version>
     <exec.mainClass>micronaut.empty.java.maven.Application</exec.mainClass>
     <micronaut.runtime>netty</micronaut.runtime>
   </properties>
