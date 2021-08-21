@@ -1,8 +1,8 @@
-## Micronaut 2.5.11 Documentation
+## Micronaut 2.5.12 Documentation
 
-- [User Guide](https://docs.micronaut.io/2.5.11/guide/index.html)
-- [API Reference](https://docs.micronaut.io/2.5.11/api/index.html)
-- [Configuration Reference](https://docs.micronaut.io/2.5.11/guide/configurationreference.html)
+- [User Guide](https://docs.micronaut.io/2.5.12/guide/index.html)
+- [API Reference](https://docs.micronaut.io/2.5.12/api/index.html)
+- [Configuration Reference](https://docs.micronaut.io/2.5.12/guide/configurationreference.html)
 - [Micronaut Guides](https://guides.micronaut.io/index.html)
 ---
 
@@ -10,13 +10,13 @@
 
 - [https://assertj.github.io/doc/](https://assertj.github.io/doc/)
 
-## Feature camunda-external-worker documentation
-
-- [https://github.com/camunda-community-hub/micronaut-camunda-external-client](https://github.com/camunda-community-hub/micronaut-camunda-external-client)
-
 ## Feature camunda documentation
 
 - [https://github.com/camunda-community-hub/micronaut-camunda-bpm](https://github.com/camunda-community-hub/micronaut-camunda-bpm)
+
+## Feature camunda-external-worker documentation
+
+- [https://github.com/camunda-community-hub/micronaut-camunda-external-client](https://github.com/camunda-community-hub/micronaut-camunda-external-client)
 
 ## Feature http-client documentation
 
