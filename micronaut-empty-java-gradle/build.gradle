@@ -23,6 +23,7 @@ dependencies {
     annotationProcessor("io.micronaut:micronaut-http-validation")
     implementation("info.novatec:micronaut-camunda-bpm-feature:2.2.0")
     implementation("info.novatec:micronaut-camunda-external-client-feature:2.1.0")
+    implementation("info.novatec:micronaut-zeebe-client-feature:1.0.1")
     implementation("io.micronaut:micronaut-http-client")
     implementation("io.micronaut:micronaut-runtime")
     runtimeOnly("ch.qos.logback:logback-classic")

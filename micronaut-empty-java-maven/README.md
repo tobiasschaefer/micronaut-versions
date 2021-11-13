@@ -6,6 +6,14 @@
 - [Micronaut Guides](https://guides.micronaut.io/index.html)
 ---
 
+## Feature camunda-external-worker documentation
+
+- [https://github.com/camunda-community-hub/micronaut-camunda-external-client](https://github.com/camunda-community-hub/micronaut-camunda-external-client)
+
+## Feature zeebe documentation
+
+- [https://github.com/camunda-community-hub/micronaut-zeebe-client](https://github.com/camunda-community-hub/micronaut-zeebe-client)
+
 ## Feature camunda documentation
 
 - [https://github.com/camunda-community-hub/micronaut-camunda-bpm](https://github.com/camunda-community-hub/micronaut-camunda-bpm)
@@ -13,10 +21,6 @@
 ## Feature assertj documentation
 
 - [https://assertj.github.io/doc/](https://assertj.github.io/doc/)
-
-## Feature camunda-external-worker documentation
-
-- [https://github.com/camunda-community-hub/micronaut-camunda-external-client](https://github.com/camunda-community-hub/micronaut-camunda-external-client)
 
 ## Feature http-client documentation
 

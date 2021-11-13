@@ -69,6 +69,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>info.novatec</groupId>
+      <artifactId>micronaut-zeebe-client-feature</artifactId>
+      <version>1.0.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>io.micronaut</groupId>
       <artifactId>micronaut-http-client</artifactId>
       <scope>compile</scope>
