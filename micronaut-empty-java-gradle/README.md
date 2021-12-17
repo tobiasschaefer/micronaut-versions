@@ -1,18 +1,14 @@
-## Micronaut 3.2.2 Documentation
+## Micronaut 3.2.3 Documentation
 
-- [User Guide](https://docs.micronaut.io/3.2.2/guide/index.html)
-- [API Reference](https://docs.micronaut.io/3.2.2/api/index.html)
-- [Configuration Reference](https://docs.micronaut.io/3.2.2/guide/configurationreference.html)
+- [User Guide](https://docs.micronaut.io/3.2.3/guide/index.html)
+- [API Reference](https://docs.micronaut.io/3.2.3/api/index.html)
+- [Configuration Reference](https://docs.micronaut.io/3.2.3/guide/configurationreference.html)
 - [Micronaut Guides](https://guides.micronaut.io/index.html)
 ---
 
-## Feature http-client documentation
+## Feature camunda-external-worker documentation
 
-- [Micronaut HTTP Client documentation](https://docs.micronaut.io/latest/guide/index.html#httpClient)
-
-## Feature camunda documentation
-
-- [https://github.com/camunda-community-hub/micronaut-camunda-bpm](https://github.com/camunda-community-hub/micronaut-camunda-bpm)
+- [https://github.com/camunda-community-hub/micronaut-camunda-external-client](https://github.com/camunda-community-hub/micronaut-camunda-external-client)
 
 ## Feature zeebe documentation
 
@@ -22,7 +18,11 @@
 
 - [https://assertj.github.io/doc/](https://assertj.github.io/doc/)
 
-## Feature camunda-external-worker documentation
+## Feature http-client documentation
 
-- [https://github.com/camunda-community-hub/micronaut-camunda-external-client](https://github.com/camunda-community-hub/micronaut-camunda-external-client)
+- [Micronaut HTTP Client documentation](https://docs.micronaut.io/latest/guide/index.html#httpClient)
+
+## Feature camunda documentation
+
+- [https://github.com/camunda-community-hub/micronaut-camunda-bpm](https://github.com/camunda-community-hub/micronaut-camunda-bpm)
 
