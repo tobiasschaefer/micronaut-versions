@@ -1,6 +1,6 @@
 plugins {
-    id("com.github.johnrengelman.shadow") version "7.1.0"
-    id("io.micronaut.application") version "3.0.2"
+    id("com.github.johnrengelman.shadow") version "7.1.1"
+    id("io.micronaut.application") version "3.1.1"
 }
 
 version = "0.1"
@@ -23,7 +23,7 @@ dependencies {
     annotationProcessor("io.micronaut:micronaut-http-validation")
     implementation("info.novatec:micronaut-camunda-bpm-feature:2.3.2")
     implementation("info.novatec:micronaut-camunda-external-client-feature:2.2.0")
-    implementation("info.novatec:micronaut-zeebe-client-feature:1.1.0")
+    implementation("info.novatec:micronaut-zeebe-client-feature:1.1.1")
     implementation("io.micronaut:micronaut-http-client")
     implementation("io.micronaut:micronaut-runtime")
     runtimeOnly("ch.qos.logback:logback-classic")
@@ -43,3 +43,4 @@ java {
     targetCompatibility = JavaVersion.toVersion("1.8")
 }
 
+graalvmNative.toolchainDetection = false
