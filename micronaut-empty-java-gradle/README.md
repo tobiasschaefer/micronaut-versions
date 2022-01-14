@@ -1,22 +1,18 @@
-## Micronaut 3.2.5 Documentation
+## Micronaut 3.2.6 Documentation
 
-- [User Guide](https://docs.micronaut.io/3.2.5/guide/index.html)
-- [API Reference](https://docs.micronaut.io/3.2.5/api/index.html)
-- [Configuration Reference](https://docs.micronaut.io/3.2.5/guide/configurationreference.html)
+- [User Guide](https://docs.micronaut.io/3.2.6/guide/index.html)
+- [API Reference](https://docs.micronaut.io/3.2.6/api/index.html)
+- [Configuration Reference](https://docs.micronaut.io/3.2.6/guide/configurationreference.html)
 - [Micronaut Guides](https://guides.micronaut.io/index.html)
 ---
-
-## Feature zeebe documentation
-
-- [https://github.com/camunda-community-hub/micronaut-zeebe-client](https://github.com/camunda-community-hub/micronaut-zeebe-client)
-
-## Feature camunda documentation
-
-- [https://github.com/camunda-community-hub/micronaut-camunda-bpm](https://github.com/camunda-community-hub/micronaut-camunda-bpm)
 
 ## Feature http-client documentation
 
 - [Micronaut HTTP Client documentation](https://docs.micronaut.io/latest/guide/index.html#httpClient)
+
+## Feature zeebe documentation
+
+- [https://github.com/camunda-community-hub/micronaut-zeebe-client](https://github.com/camunda-community-hub/micronaut-zeebe-client)
 
 ## Feature camunda-external-worker documentation
 
@@ -25,4 +21,8 @@
 ## Feature assertj documentation
 
 - [https://assertj.github.io/doc/](https://assertj.github.io/doc/)
+
+## Feature camunda documentation
+
+- [https://github.com/camunda-community-hub/micronaut-camunda-bpm](https://github.com/camunda-community-hub/micronaut-camunda-bpm)
 
