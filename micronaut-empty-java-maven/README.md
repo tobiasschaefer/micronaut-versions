@@ -1,14 +1,10 @@
-## Micronaut 3.2.6 Documentation
+## Micronaut 3.2.7 Documentation
 
-- [User Guide](https://docs.micronaut.io/3.2.6/guide/index.html)
-- [API Reference](https://docs.micronaut.io/3.2.6/api/index.html)
-- [Configuration Reference](https://docs.micronaut.io/3.2.6/guide/configurationreference.html)
+- [User Guide](https://docs.micronaut.io/3.2.7/guide/index.html)
+- [API Reference](https://docs.micronaut.io/3.2.7/api/index.html)
+- [Configuration Reference](https://docs.micronaut.io/3.2.7/guide/configurationreference.html)
 - [Micronaut Guides](https://guides.micronaut.io/index.html)
 ---
-
-## Feature assertj documentation
-
-- [https://assertj.github.io/doc/](https://assertj.github.io/doc/)
 
 ## Feature http-client documentation
 
@@ -21,6 +17,10 @@
 ## Feature zeebe documentation
 
 - [https://github.com/camunda-community-hub/micronaut-zeebe-client](https://github.com/camunda-community-hub/micronaut-zeebe-client)
+
+## Feature assertj documentation
+
+- [https://assertj.github.io/doc/](https://assertj.github.io/doc/)
 
 ## Feature camunda documentation
 
