@@ -1,17 +1,12 @@
-## Micronaut 3.4.1 Documentation
+## Micronaut 3.4.2 Documentation
 
-- [User Guide](https://docs.micronaut.io/3.4.1/guide/index.html)
-- [API Reference](https://docs.micronaut.io/3.4.1/api/index.html)
-- [Configuration Reference](https://docs.micronaut.io/3.4.1/guide/configurationreference.html)
+- [User Guide](https://docs.micronaut.io/3.4.2/guide/index.html)
+- [API Reference](https://docs.micronaut.io/3.4.2/api/index.html)
+- [Configuration Reference](https://docs.micronaut.io/3.4.2/guide/configurationreference.html)
 - [Micronaut Guides](https://guides.micronaut.io/index.html)
 ---
 
 - [Shadow Gradle Plugin](https://plugins.gradle.org/plugin/com.github.johnrengelman.shadow)
-## Feature zeebe documentation
-
-- [https://github.com/camunda-community-hub/micronaut-zeebe-client](https://github.com/camunda-community-hub/micronaut-zeebe-client)
-
-
 ## Feature camunda-external-worker documentation
 
 - [https://github.com/camunda-community-hub/micronaut-camunda-external-client](https://github.com/camunda-community-hub/micronaut-camunda-external-client)
@@ -30,5 +25,10 @@
 ## Feature camunda documentation
 
 - [https://github.com/camunda-community-hub/micronaut-camunda-bpm](https://github.com/camunda-community-hub/micronaut-camunda-bpm)
+
+
+## Feature zeebe documentation
+
+- [https://github.com/camunda-community-hub/micronaut-zeebe-client](https://github.com/camunda-community-hub/micronaut-zeebe-client)
 
 

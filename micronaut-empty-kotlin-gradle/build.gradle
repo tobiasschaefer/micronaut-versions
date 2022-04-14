@@ -1,6 +1,6 @@
 plugins {
-    id("org.jetbrains.kotlin.jvm") version "1.6.10"
-    id("org.jetbrains.kotlin.kapt") version "1.6.10"
+    id("org.jetbrains.kotlin.jvm") version "1.6.20"
+    id("org.jetbrains.kotlin.kapt") version "1.6.20"
     id("org.jetbrains.kotlin.plugin.allopen") version "1.6.10"
     id("com.github.johnrengelman.shadow") version "7.1.2"
     id("io.micronaut.application") version "3.3.2"
@@ -15,9 +15,9 @@ repositories {
 
 dependencies {
     kapt("io.micronaut:micronaut-http-validation")
-    implementation("info.novatec:micronaut-camunda-bpm-feature:2.6.0")
-    implementation("info.novatec:micronaut-camunda-external-client-feature:2.5.0")
-    implementation("info.novatec:micronaut-zeebe-client-feature:1.6.0")
+    implementation("info.novatec:micronaut-camunda-bpm-feature:2.7.0")
+    implementation("info.novatec:micronaut-camunda-external-client-feature:2.6.0")
+    implementation("info.novatec:micronaut-zeebe-client-feature:1.7.0")
     implementation("io.micronaut:micronaut-http-client")
     implementation("io.micronaut:micronaut-jackson-databind")
     implementation("io.micronaut:micronaut-runtime")
@@ -27,7 +27,7 @@ dependencies {
     runtimeOnly("ch.qos.logback:logback-classic")
     runtimeOnly("com.h2database:h2")
     testImplementation("org.assertj:assertj-core")
-    testImplementation("org.camunda.bpm.assert:camunda-bpm-assert:14.0.0")
+    testImplementation("org.camunda.assert:camunda-bpm-assert:7.17.0")
     implementation("io.micronaut:micronaut-validation")
 
     runtimeOnly("com.fasterxml.jackson.module:jackson-module-kotlin")
