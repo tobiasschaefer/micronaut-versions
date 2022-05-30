@@ -1,8 +1,8 @@
 micronaut:
   application:
     name: micronautEmptyJavaMaven
-camunda.external-client.base-url: http://localhost:8080/engine-rest
 netty:
   default:
     allocator:
       max-order: 3
+camunda.external-client.base-url: http://localhost:8080/engine-rest

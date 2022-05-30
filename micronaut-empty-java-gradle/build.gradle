@@ -1,6 +1,6 @@
 plugins {
     id("com.github.johnrengelman.shadow") version "7.1.2"
-    id("io.micronaut.application") version "3.3.2"
+    id("io.micronaut.application") version "3.4.0"
 }
 
 version = "0.1"
@@ -17,7 +17,6 @@ dependencies {
     implementation("info.novatec:micronaut-zeebe-client-feature:1.7.0")
     implementation("io.micronaut:micronaut-http-client")
     implementation("io.micronaut:micronaut-jackson-databind")
-    implementation("io.micronaut:micronaut-runtime")
     runtimeOnly("ch.qos.logback:logback-classic")
     runtimeOnly("com.h2database:h2")
     testImplementation("org.assertj:assertj-core")
@@ -44,5 +43,6 @@ micronaut {
         annotations("micronaut.empty.java.gradle.*")
     }
 }
+
 
 
