@@ -1,25 +1,25 @@
-## Micronaut 3.5.0 Documentation
+## Micronaut 3.5.1 Documentation
 
-- [User Guide](https://docs.micronaut.io/3.5.0/guide/index.html)
-- [API Reference](https://docs.micronaut.io/3.5.0/api/index.html)
-- [Configuration Reference](https://docs.micronaut.io/3.5.0/guide/configurationreference.html)
+- [User Guide](https://docs.micronaut.io/3.5.1/guide/index.html)
+- [API Reference](https://docs.micronaut.io/3.5.1/api/index.html)
+- [Configuration Reference](https://docs.micronaut.io/3.5.1/guide/configurationreference.html)
 - [Micronaut Guides](https://guides.micronaut.io/index.html)
 ---
 
 - [Shadow Gradle Plugin](https://plugins.gradle.org/plugin/com.github.johnrengelman.shadow)
-## Feature novatec-camunda documentation
-
-- [https://github.com/camunda-community-hub/micronaut-camunda-bpm](https://github.com/camunda-community-hub/micronaut-camunda-bpm)
-
-
 ## Feature novatec-camunda-external-worker documentation
 
 - [https://github.com/camunda-community-hub/micronaut-camunda-external-client](https://github.com/camunda-community-hub/micronaut-camunda-external-client)
 
 
-## Feature assertj documentation
+## Feature http-client documentation
 
-- [https://assertj.github.io/doc/](https://assertj.github.io/doc/)
+- [Micronaut HTTP Client documentation](https://docs.micronaut.io/latest/guide/index.html#httpClient)
+
+
+## Feature novatec-camunda documentation
+
+- [https://github.com/camunda-community-hub/micronaut-camunda-bpm](https://github.com/camunda-community-hub/micronaut-camunda-bpm)
 
 
 ## Feature novatec-zeebe documentation
@@ -27,8 +27,8 @@
 - [https://github.com/camunda-community-hub/micronaut-zeebe-client](https://github.com/camunda-community-hub/micronaut-zeebe-client)
 
 
-## Feature http-client documentation
+## Feature assertj documentation
 
-- [Micronaut HTTP Client documentation](https://docs.micronaut.io/latest/guide/index.html#httpClient)
+- [https://assertj.github.io/doc/](https://assertj.github.io/doc/)
 
 
