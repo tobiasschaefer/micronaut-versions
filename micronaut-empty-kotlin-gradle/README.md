@@ -1,8 +1,8 @@
-## Micronaut 3.5.3 Documentation
+## Micronaut 3.6.0 Documentation
 
-- [User Guide](https://docs.micronaut.io/3.5.3/guide/index.html)
-- [API Reference](https://docs.micronaut.io/3.5.3/api/index.html)
-- [Configuration Reference](https://docs.micronaut.io/3.5.3/guide/configurationreference.html)
+- [User Guide](https://docs.micronaut.io/3.6.0/guide/index.html)
+- [API Reference](https://docs.micronaut.io/3.6.0/api/index.html)
+- [Configuration Reference](https://docs.micronaut.io/3.6.0/guide/configurationreference.html)
 - [Micronaut Guides](https://guides.micronaut.io/index.html)
 ---
 
@@ -10,6 +10,11 @@
 ## Feature http-client documentation
 
 - [Micronaut HTTP Client documentation](https://docs.micronaut.io/latest/guide/index.html#httpClient)
+
+
+## Feature novatec-camunda-external-worker documentation
+
+- [https://github.com/camunda-community-hub/micronaut-camunda-external-client](https://github.com/camunda-community-hub/micronaut-camunda-external-client)
 
 
 ## Feature novatec-camunda documentation
@@ -20,11 +25,6 @@
 ## Feature assertj documentation
 
 - [https://assertj.github.io/doc/](https://assertj.github.io/doc/)
-
-
-## Feature novatec-camunda-external-worker documentation
-
-- [https://github.com/camunda-community-hub/micronaut-camunda-external-client](https://github.com/camunda-community-hub/micronaut-camunda-external-client)
 
 
 ## Feature novatec-zeebe documentation
