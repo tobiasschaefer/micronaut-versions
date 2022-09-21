@@ -3,7 +3,7 @@ plugins {
     id("org.jetbrains.kotlin.kapt") version "1.6.21"
     id("org.jetbrains.kotlin.plugin.allopen") version "1.6.21"
     id("com.github.johnrengelman.shadow") version "7.1.2"
-    id("io.micronaut.application") version "3.5.3"
+    id("io.micronaut.application") version "3.6.0"
 }
 
 version = "0.1"
@@ -15,9 +15,9 @@ repositories {
 
 dependencies {
     kapt("io.micronaut:micronaut-http-validation")
-    implementation("info.novatec:micronaut-camunda-bpm-feature:2.8.0")
-    implementation("info.novatec:micronaut-camunda-external-client-feature:2.7.1")
-    implementation("info.novatec:micronaut-zeebe-client-feature:1.8.0")
+    implementation("info.novatec:micronaut-camunda-bpm-feature:2.9.0")
+    implementation("info.novatec:micronaut-camunda-external-client-feature:2.8.0")
+    implementation("info.novatec:micronaut-zeebe-client-feature:1.9.0")
     implementation("io.micronaut:micronaut-http-client")
     implementation("io.micronaut:micronaut-jackson-databind")
     implementation("io.micronaut.kotlin:micronaut-kotlin-runtime")
