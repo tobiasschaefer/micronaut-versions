@@ -1,8 +1,8 @@
-## Micronaut 3.7.3 Documentation
+## Micronaut 3.7.4 Documentation
 
-- [User Guide](https://docs.micronaut.io/3.7.3/guide/index.html)
-- [API Reference](https://docs.micronaut.io/3.7.3/api/index.html)
-- [Configuration Reference](https://docs.micronaut.io/3.7.3/guide/configurationreference.html)
+- [User Guide](https://docs.micronaut.io/3.7.4/guide/index.html)
+- [API Reference](https://docs.micronaut.io/3.7.4/api/index.html)
+- [Configuration Reference](https://docs.micronaut.io/3.7.4/guide/configurationreference.html)
 - [Micronaut Guides](https://guides.micronaut.io/index.html)
 ---
 
@@ -17,9 +17,9 @@
 - [https://github.com/camunda-community-hub/micronaut-camunda-external-client](https://github.com/camunda-community-hub/micronaut-camunda-external-client)
 
 
-## Feature assertj documentation
+## Feature camunda-zeebe documentation
 
-- [https://assertj.github.io/doc/](https://assertj.github.io/doc/)
+- [https://github.com/camunda-community-hub/micronaut-zeebe-client](https://github.com/camunda-community-hub/micronaut-zeebe-client)
 
 
 ## Feature camunda-platform7 documentation
@@ -27,8 +27,8 @@
 - [https://github.com/camunda-community-hub/micronaut-camunda-bpm](https://github.com/camunda-community-hub/micronaut-camunda-bpm)
 
 
-## Feature camunda-zeebe documentation
+## Feature assertj documentation
 
-- [https://github.com/camunda-community-hub/micronaut-zeebe-client](https://github.com/camunda-community-hub/micronaut-zeebe-client)
+- [https://assertj.github.io/doc/](https://assertj.github.io/doc/)
 
 
