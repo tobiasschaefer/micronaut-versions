@@ -12,15 +12,15 @@ repositories {
 
 dependencies {
     annotationProcessor("io.micronaut:micronaut-http-validation")
-    implementation("info.novatec:micronaut-camunda-bpm-feature:2.9.0")
-    implementation("info.novatec:micronaut-camunda-external-client-feature:2.8.0")
-    implementation("info.novatec:micronaut-zeebe-client-feature:1.9.0")
+    implementation("info.novatec:micronaut-camunda-bpm-feature:2.10.0")
+    implementation("info.novatec:micronaut-camunda-external-client-feature:2.9.0")
+    implementation("info.novatec:micronaut-zeebe-client-feature:1.10.0")
     implementation("io.micronaut:micronaut-http-client")
     implementation("io.micronaut:micronaut-jackson-databind")
     runtimeOnly("ch.qos.logback:logback-classic")
     runtimeOnly("com.h2database:h2")
     testImplementation("org.assertj:assertj-core")
-    testImplementation("org.camunda.bpm:camunda-bpm-assert:7.17.0")
+    testImplementation("org.camunda.bpm:camunda-bpm-assert:7.18.0")
     implementation("io.micronaut:micronaut-validation")
 
 }
