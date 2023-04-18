@@ -1,8 +1,18 @@
 micronaut:
   application:
     name: micronautEmptyJavaGradle
-camunda.external-client.base-url: http://localhost:8080/engine-rest
-netty:
-  default:
-    allocator:
-      max-order: 3
+camunda:
+  admin-user:
+    id: admin
+    password: admin
+  webapps:
+    enabled: true
+  rest:
+    enabled: true
+  generic-properties:
+    properties:
+      initialize-telemetry: true
+  filter:
+    create: All tasks
+  external-client:
+    base-url: http://localhost:8080/engine-rest
