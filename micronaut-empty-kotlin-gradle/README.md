@@ -1,17 +1,17 @@
-## Micronaut 3.9.0 Documentation
+## Micronaut 3.9.4 Documentation
 
-- [User Guide](https://docs.micronaut.io/3.9.0/guide/index.html)
-- [API Reference](https://docs.micronaut.io/3.9.0/api/index.html)
-- [Configuration Reference](https://docs.micronaut.io/3.9.0/guide/configurationreference.html)
+- [User Guide](https://docs.micronaut.io/3.9.4/guide/index.html)
+- [API Reference](https://docs.micronaut.io/3.9.4/api/index.html)
+- [Configuration Reference](https://docs.micronaut.io/3.9.4/guide/configurationreference.html)
 - [Micronaut Guides](https://guides.micronaut.io/index.html)
 ---
 
-- [Shadow Gradle Plugin](https://plugins.gradle.org/plugin/com.github.johnrengelman.shadow)
 - [Micronaut Gradle Plugin documentation](https://micronaut-projects.github.io/micronaut-gradle-plugin/latest/)
 - [GraalVM Gradle Plugin documentation](https://graalvm.github.io/native-build-tools/latest/gradle-plugin.html)
-## Feature camunda-platform7 documentation
+- [Shadow Gradle Plugin](https://plugins.gradle.org/plugin/com.github.johnrengelman.shadow)
+## Feature camunda-zeebe documentation
 
-- [https://github.com/camunda-community-hub/micronaut-camunda-platform-7](https://github.com/camunda-community-hub/micronaut-camunda-platform-7)
+- [https://github.com/camunda-community-hub/micronaut-zeebe-client](https://github.com/camunda-community-hub/micronaut-zeebe-client)
 
 
 ## Feature jetty-server documentation
@@ -19,19 +19,19 @@
 - [Micronaut Jetty Server documentation](https://micronaut-projects.github.io/micronaut-servlet/1.0.x/guide/index.html#jetty)
 
 
-## Feature camunda-external-worker documentation
-
-- [https://github.com/camunda-community-hub/micronaut-camunda-external-client](https://github.com/camunda-community-hub/micronaut-camunda-external-client)
-
-
 ## Feature http-client documentation
 
 - [Micronaut HTTP Client documentation](https://docs.micronaut.io/latest/guide/index.html#httpClient)
 
 
-## Feature camunda-zeebe documentation
+## Feature camunda-platform7 documentation
 
-- [https://github.com/camunda-community-hub/micronaut-zeebe-client](https://github.com/camunda-community-hub/micronaut-zeebe-client)
+- [https://github.com/camunda-community-hub/micronaut-camunda-platform-7](https://github.com/camunda-community-hub/micronaut-camunda-platform-7)
+
+
+## Feature camunda-external-worker documentation
+
+- [https://github.com/camunda-community-hub/micronaut-camunda-external-client](https://github.com/camunda-community-hub/micronaut-camunda-external-client)
 
 
 ## Feature assertj documentation
